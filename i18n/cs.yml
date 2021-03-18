@@ -1,0 +1,30 @@
+cs:
+  COMMAND:
+    CHANGELOG:
+      NEW_FEATURES: 'Nové funkce'
+      IMPROVEMENTS: 'Zlepšení'
+      BUG_FIXES: 'Opravy chyb'
+      BOT_ANNOUNCEMENTS: 'Oznámení bota'
+      TRELLO_LINK: '🔗 odkaz na kartu Trello'
+      UPDATE_RELEASE: 'Aktualizace zveřejněna dne '
+    INVITE:
+      INVITE_TITLE: 'Pozvánka emojifier'
+    SUPPORT:
+      HAPPY_TO_HELP: 'Pokud potřebujete pomoc, neváhejte se připojit k našemu serveru podpory na: https://discord.gg/qGvzMas Náš tým podpory vám rád pomůže!'
+    VOTE:
+      VOTE_INFO: 'Informace o hlasování'
+      HELPS_GROW: 'Hlasování o různých seznamech botů opravdu pomáhá tomuto botovi růst a získávat více serverů!'
+      WHERE_VOTE: 'Kde hlasovat'
+      THANKS_VOTE: 'Předem děkujeme za jakékoliv hlasy, které nám můžete dát!'
+    USERINFO:
+      USER_ID: '**ID uživatele**'
+      CREATED_AT: '**Vytvořeno**'
+      NICKNAME: '**Nickname**'
+      JOINED_AT: '**Připojil**'
+      ROLES: '**Role**'
+    VERIFY:
+      ACK: 'Poděkování'
+      SERVER_MOD: 'Moderátor serveru :hammer:'
+      SERVER_ADMIN: ':tools: Správce serveru'
+      GLOBAL_ACKS: 'Globální znalosti'
+      SERVER_ACKS: 'Uznání serveru'
