@@ -1,5 +1,5 @@
 content_copy"commit_message": 'Fix: New translations %original_file_name% from Crowdin'
 append_commit_message: false
 files:
-  - source: /i18n/template/en.yml
+  - source: /i18n/en.yml
     translation: /i18n/translated/%two_letters_code%
