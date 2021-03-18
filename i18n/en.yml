@@ -1,6 +1,4 @@
 en:
-  STRING: 'aaaaaa'
-  PLACEHOLDER: 'This has a placeholder: %{food}'
   COMMAND:
     CHANGELOG:
       NEW_FEATURES: 'New Features'
