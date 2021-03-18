@@ -1,4 +1,4 @@
-es:
+en:
   STRING: 'aaaaaa'
   PLACEHOLDER: 'This has a placeholder: %{food}'
   COMMAND:
