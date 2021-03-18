@@ -1,0 +1,30 @@
+el:
+  COMMAND:
+    CHANGELOG:
+      NEW_FEATURES: 'Νέα Χαρακτηριστικά'
+      IMPROVEMENTS: 'Βελτιώσεις'
+      BUG_FIXES: 'Διορθώσεις Σφαλμάτων'
+      BOT_ANNOUNCEMENTS: 'Ανακοινώσεις bot'
+      TRELLO_LINK: '🔗 Σύνδεσμος Κάρτας Trello'
+      UPDATE_RELEASE: 'Η ενημέρωση κυκλοφόρησε στις '
+    INVITE:
+      INVITE_TITLE: 'Πρόσκληση Emojifier'
+    SUPPORT:
+      HAPPY_TO_HELP: 'Αν χρειάζεστε βοήθεια, μη διστάσετε να συμμετάσχετε στο διακομιστή υποστήριξης μας στο: https://discord.gg/qGvzMas Η ομάδα υποστήριξης μας θα χαρεί να σας βοηθήσει!'
+    VOTE:
+      VOTE_INFO: 'Πληροφορίες Ψηφοφορίας'
+      HELPS_GROW: 'Ψηφοφορία σε διαφορετικές λίστες bot βοηθά πραγματικά αυτό το bot να μεγαλώσει και να κερδίσει περισσότερους διακομιστές!'
+      WHERE_VOTE: 'Πού να ψηφίσετε'
+      THANKS_VOTE: 'Σας ευχαριστούμε εκ των προτέρων για οποιαδήποτε ψήφο μπορείτε να μας δώσετε!'
+    USERINFO:
+      USER_ID: '**ID Χρήστη**'
+      CREATED_AT: '**Δημιουργήθηκε στις**'
+      NICKNAME: '**Nickname**'
+      JOINED_AT: '**Έγινε μέλος σε**'
+      ROLES: '**Ρόλους**'
+    VERIFY:
+      ACK: 'Ευχαριστίες'
+      SERVER_MOD: ':hammer: Συντονιστής διακομιστή'
+      SERVER_ADMIN: ':tools: Διαχειριστής Διακομιστή'
+      GLOBAL_ACKS: 'Καθολικές Αναγνώσεις'
+      SERVER_ACKS: 'Αναγνώσεις Διακομιστή'
