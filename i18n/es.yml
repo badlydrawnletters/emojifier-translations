@@ -1,3 +1,31 @@
 es:
   COMMAND:
+    CHANGELOG:
+      NEW_FEATURES: 'New Features'
+      IMPROVEMENTS: 'Improvements'
+      BUG_FIXES: 'Bug Fixes'
+      BOT_ANNOUNCEMENTS: 'Bot announcements'
+      TRELLO_LINK: '🔗 Trello Card Link'
+      UPDATE_RELEASE: 'Update released on '
+    INVITE:
+      INVITE_TITLE: 'Emojifier Invite'
+    SUPPORT:
+      HAPPY_TO_HELP: 'If you need help, feel free to join our support server at: https://discord.gg/qGvzMas Our support team will be happy to assist you!'
+    VOTE:
+      VOTE_INFO: 'Voting Information'
+      HELPS_GROW: 'Voting on different bot lists really helps this bot grow and gain more servers!'
+      WHERE_VOTE: 'Where to Vote'
+      THANKS_VOTE: 'Thanks in advance for any votes you may give us!'
+    USERINFO:
+      USER_ID: '**User ID**'
+      CREATED_AT: '**Created at**'
+      NICKNAME: '**Nickname**'
+      JOINED_AT: '**Joined at**'
+      ROLES: '**Roles**'
+    VERIFY:
+      ACK: 'Acknowledgments'
+      SERVER_MOD: ':hammer: Server Moderator'
+      SERVER_ADMIN: ':tools: Server Admin'
+      GLOBAL_ACKS: 'Global Acknowledgments'
+      SERVER_ACKS: 'Server Acknowledgements'
 
