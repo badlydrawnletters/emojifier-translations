@@ -1,30 +1,30 @@
-zh-CN:
+zh-TW:
   COMMAND:
     CHANGELOG:
-      NEW_FEATURES: '新功能'
-      IMPROVEMENTS: '改进'
-      BUG_FIXES: 'Bug 修复'
-      BOT_ANNOUNCEMENTS: '机器人公告'
-      TRELLO_LINK: '🔗 Trello 卡链接'
-      UPDATE_RELEASE: '更新发布于 '
+      NEW_FEATURES: 'New Features'
+      IMPROVEMENTS: 'Improvements'
+      BUG_FIXES: 'Bug Fixes'
+      BOT_ANNOUNCEMENTS: 'Bot announcements'
+      TRELLO_LINK: '🔗 Trello Card Link'
+      UPDATE_RELEASE: 'Update released on '
     INVITE:
-      INVITE_TITLE: '表情符号邀请'
+      INVITE_TITLE: 'Emojifier Invite'
     SUPPORT:
-      HAPPY_TO_HELP: '如果您需要帮助，请随时加入我们的支持服务器： https://discord.gg/qGvzMas 我们的支持团队将乐意帮助您！'
+      HAPPY_TO_HELP: 'If you need help, feel free to join our support server at: https://discord.gg/qGvzMas Our support team will be happy to assist you!'
     VOTE:
-      VOTE_INFO: '投票信息'
-      HELPS_GROW: '在不同的机器人列表中投票真正有助于该机器人成长并获得更多的服务器！'
-      WHERE_VOTE: '要投票的地方'
-      THANKS_VOTE: '事先感谢您可能给我们任何票！'
+      VOTE_INFO: 'Voting Information'
+      HELPS_GROW: 'Voting on different bot lists really helps this bot grow and gain more servers!'
+      WHERE_VOTE: 'Where to Vote'
+      THANKS_VOTE: 'Thanks in advance for any votes you may give us!'
     USERINFO:
       USER_ID: '**User ID**'
-      CREATED_AT: '**创建于**'
+      CREATED_AT: '**Created at**'
       NICKNAME: '**Nickname**'
-      JOINED_AT: '**加入**'
+      JOINED_AT: '**Joined at**'
       ROLES: '**Roles**'
     VERIFY:
-      ACK: '鸣谢'
-      SERVER_MOD: ':hammer: 服务器版主'
-      SERVER_ADMIN: ':tools: 服务器管理员'
-      GLOBAL_ACKS: '全局鸣谢'
-      SERVER_ACKS: '服务器鸣谢'
+      ACK: 'Acknowledgments'
+      SERVER_MOD: ':hammer: Server Moderator'
+      SERVER_ADMIN: ':tools: Server Admin'
+      GLOBAL_ACKS: 'Global Acknowledgments'
+      SERVER_ACKS: 'Server Acknowledgements'
