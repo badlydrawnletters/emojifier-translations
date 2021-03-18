@@ -1,0 +1,30 @@
+ja:
+  COMMAND:
+    CHANGELOG:
+      NEW_FEATURES: '新機能'
+      IMPROVEMENTS: '改善'
+      BUG_FIXES: 'バグ修正'
+      BOT_ANNOUNCEMENTS: 'Botのお知らせ'
+      TRELLO_LINK: '🔗 Trello カードリンク'
+      UPDATE_RELEASE: 'アップデートがリリースされました： '
+    INVITE:
+      INVITE_TITLE: '絵文字の招待'
+    SUPPORT:
+      HAPPY_TO_HELP: 'サポートが必要な場合は、https://discord.gg/qGvzMas サポートチームが喜んでお手伝いします！'
+    VOTE:
+      VOTE_INFO: '投票情報'
+      HELPS_GROW: '異なるボットリストで投票することは、このボットがより多くのサーバーを成長させるのに本当に役立ちます！'
+      WHERE_VOTE: '投票先'
+      THANKS_VOTE: 'あなたが私たちを与えるかもしれない任意の投票を事前にありがとう!'
+    USERINFO:
+      USER_ID: '**ユーザー ID**'
+      CREATED_AT: '**作成日時**'
+      NICKNAME: '**Nickname**'
+      JOINED_AT: '**参加しました**'
+      ROLES: '**役割**'
+    VERIFY:
+      ACK: '謝辞'
+      SERVER_MOD: ':hammer: サーバーモデレーター'
+      SERVER_ADMIN: ':tools: サーバー管理者'
+      GLOBAL_ACKS: 'グローバル謝辞'
+      SERVER_ACKS: 'サーバー謝辞'
