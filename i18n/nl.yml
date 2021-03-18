@@ -1,0 +1,30 @@
+nl:
+  COMMAND:
+    CHANGELOG:
+      NEW_FEATURES: 'Nieuwe functies'
+      IMPROVEMENTS: 'Verbeteringen'
+      BUG_FIXES: 'Bug fixes'
+      BOT_ANNOUNCEMENTS: 'Bot aankondigingen'
+      TRELLO_LINK: '🔗 Trello Kaart Link'
+      UPDATE_RELEASE: 'Update vrijgegeven op '
+    INVITE:
+      INVITE_TITLE: 'Uitnodiging voor Emojifier'
+    SUPPORT:
+      HAPPY_TO_HELP: 'Als je hulp nodig hebt, meld je dan gerust aan bij onze support server op: https://discord.gg/qGvzMas Ons support team helpt je graag!'
+    VOTE:
+      VOTE_INFO: 'Stemmen informatie'
+      HELPS_GROW: 'Stemmen op verschillende bot lijsten helpt deze bot echt te groeien en meer servers te krijgen!'
+      WHERE_VOTE: 'Waar te stemmen'
+      THANKS_VOTE: 'Alvast bedankt voor elke stem die u ons kunt geven!'
+    USERINFO:
+      USER_ID: '**Gebruiker ID**'
+      CREATED_AT: '**Aangemaakt op**'
+      NICKNAME: '**Nickname**'
+      JOINED_AT: '**Geregistreerd op**'
+      ROLES: '**Rollen**'
+    VERIFY:
+      ACK: 'Erkenning'
+      SERVER_MOD: ':hammer: Server Moderator'
+      SERVER_ADMIN: ':tools: Server Beheerder'
+      GLOBAL_ACKS: 'Globale Erkenning'
+      SERVER_ACKS: 'Server kennis'
