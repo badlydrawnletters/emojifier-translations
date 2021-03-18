@@ -1,0 +1,30 @@
+fi:
+  COMMAND:
+    CHANGELOG:
+      NEW_FEATURES: 'Uudet Ominaisuudet'
+      IMPROVEMENTS: 'Parannukset'
+      BUG_FIXES: 'Virheiden Korjaukset'
+      BOT_ANNOUNCEMENTS: 'Botti ilmoitukset'
+      TRELLO_LINK: '🔗 Trello Card Linkki'
+      UPDATE_RELEASE: 'Päivitys julkaistu '
+    INVITE:
+      INVITE_TITLE: 'Kutsu Kutsuja'
+    SUPPORT:
+      HAPPY_TO_HELP: 'Jos tarvitset apua, voit vapaasti liittyä tukipalvelimellemme: https://discord.gg/qGvzMas Tukitiimimme auttaa sinua mielelläsi!'
+    VOTE:
+      VOTE_INFO: 'Äänestyksen Tiedot'
+      HELPS_GROW: 'Äänestäminen eri bottilistoja todella auttaa tätä bottia kasvaa ja saada enemmän palvelimia!'
+      WHERE_VOTE: 'Mistä äänet'
+      THANKS_VOTE: 'Kiitos etukäteen mistä tahansa äänestyksestä, jonka annatte meille!'
+    USERINFO:
+      USER_ID: '**Käyttäjätunnus**'
+      CREATED_AT: '**Luotu sivustolla**'
+      NICKNAME: '**Nickname**'
+      JOINED_AT: '**Liittyi mukaan**'
+      ROLES: '**Roolit**'
+    VERIFY:
+      ACK: 'Kiitokset'
+      SERVER_MOD: ':hammer: Palvelimen Moderaattori'
+      SERVER_ADMIN: ':tools: Palvelimen Ylläpitäjä'
+      GLOBAL_ACKS: 'Globaalit Kuittaukset'
+      SERVER_ACKS: 'Palvelimen Kiitokset'
