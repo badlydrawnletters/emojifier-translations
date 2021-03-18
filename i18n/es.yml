@@ -1,30 +1,3 @@
 es:
   COMMAND:
-    CHANGELOG:
-      NEW_FEATURES: 'Nuevas Características'
-      IMPROVEMENTS: 'Mejoras'
-      BUG_FIXES: 'Corrección de errores'
-      BOT_ANNOUNCEMENTS: 'Bot Anuncios'
-      TRELLO_LINK: '🔗 Enlace de Tarjeta Trello'
-      UPDATE_RELEASE: 'Notas de la nueva version '
-    INVITE:
-      INVITE_TITLE: 'Invitar Emojifier'
-    SUPPORT:
-      HAPPY_TO_HELP: 'Si necesitas ayuda, siéntete libre de unirte a nuestro servidor de soporte en: https://discord.gg/qGvzMas Nuestro equipo de soporte estará encantado de ayudarte!'
-    VOTE:
-      VOTE_INFO: 'Información de votación'
-      HELPS_GROW: '¡Votar en diferentes listas de bots realmente ayuda a este bot a crecer y ganar más servidores!'
-      WHERE_VOTE: 'Dónde votar'
-      THANKS_VOTE: 'Gracias de antemano por cualquier voto que nos pueda dar!'
-    USERINFO:
-      USER_ID: '**ID de usuario**'
-      CREATED_AT: 'Creado el'
-      NICKNAME: '**Nickname**'
-      JOINED_AT: '**Se unió a**'
-      ROLES: '**Roles:**'
-    VERIFY:
-      ACK: 'Créditos'
-      SERVER_MOD: ':hammer: Moderador del Servidor'
-      SERVER_ADMIN: ':tools: Administrador del Servidor'
-      GLOBAL_ACKS: 'Reconocimientos globales'
-      SERVER_ACKS: 'Forzar Reconocimiento'
+
