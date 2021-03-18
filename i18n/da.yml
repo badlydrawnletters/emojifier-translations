@@ -1,0 +1,30 @@
+da:
+  COMMAND:
+    CHANGELOG:
+      NEW_FEATURES: 'Nye Funktioner'
+      IMPROVEMENTS: 'Forbedringer'
+      BUG_FIXES: 'Fejlrettelser'
+      BOT_ANNOUNCEMENTS: 'Bot meddelelser'
+      TRELLO_LINK: '🔗 Trello Card Link'
+      UPDATE_RELEASE: 'Opdatering udgivet den '
+    INVITE:
+      INVITE_TITLE: 'Emojifier Invitation'
+    SUPPORT:
+      HAPPY_TO_HELP: 'Hvis du har brug for hjælp, er du velkommen til at deltage i vores supportserver på: https://discord.gg/qGvzMas Vores supportteam vil med glæde hjælpe dig!'
+    VOTE:
+      VOTE_INFO: 'Afstemning Information'
+      HELPS_GROW: 'Afstemning på forskellige bot lister virkelig hjælper denne bot vokse og få flere servere!'
+      WHERE_VOTE: 'Hvor skal stemmes'
+      THANKS_VOTE: 'Tak på forhånd for eventuelle stemmer, du kan give os!'
+    USERINFO:
+      USER_ID: '**Bruger ID**'
+      CREATED_AT: '**Oprettet på**'
+      NICKNAME: '**Nickname**'
+      JOINED_AT: '**Tilmeldt på**'
+      ROLES: '**Roller**'
+    VERIFY:
+      ACK: 'Anerkendelser'
+      SERVER_MOD: ':hammer: Server Moderator'
+      SERVER_ADMIN: ':tools: Server Admin'
+      GLOBAL_ACKS: 'Globale Bekræftelser'
+      SERVER_ACKS: 'Server Bekræftelser'
