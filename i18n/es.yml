@@ -1,6 +1,4 @@
 es:
-  STRING: 'aaaaaa'
-  PLACEHOLDER: 'Esto tiene un marcador de posición: %{food}'
   COMMAND:
     CHANGELOG:
       NEW_FEATURES: 'Nuevas Características'
