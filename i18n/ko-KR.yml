@@ -1,0 +1,30 @@
+ko:
+  COMMAND:
+    CHANGELOG:
+      NEW_FEATURES: '새로운 기능'
+      IMPROVEMENTS: '개선사항'
+      BUG_FIXES: '버그 수정'
+      BOT_ANNOUNCEMENTS: '봇 공지 사항'
+      TRELLO_LINK: '🔗 Trello 카드 링크'
+      UPDATE_RELEASE: '업데이트 출시일: '
+    INVITE:
+      INVITE_TITLE: 'Emojifier 초대'
+    SUPPORT:
+      HAPPY_TO_HELP: '도움이 필요하시면 언제든지 저희 지원 서버에 참가하세요. 저희 지원 팀이 기꺼이 도와드리겠습니다! https://discord.gg/qGvzMas'
+    VOTE:
+      VOTE_INFO: '투표 정보'
+      HELPS_GROW: '여러 봇 목록에서 투표해주시면 이 봇이 성장하고 더 많은 서버를 얻는 데 큰 도움이 됩니다!'
+      WHERE_VOTE: '투표하는 곳'
+      THANKS_VOTE: '투표해 주셔서 미리 감사드립니다!'
+    USERINFO:
+      USER_ID: '**사용자 ID**'
+      CREATED_AT: '**계정 생성일**'
+      NICKNAME: '**별명**'
+      JOINED_AT: '**서버 참가일**'
+      ROLES: '**역할**'
+    VERIFY:
+      ACK: '자격'
+      SERVER_MOD: ':hammer: 서버 관리자'
+      SERVER_ADMIN: ':tools: 서버 운영자'
+      GLOBAL_ACKS: '전체 자격'
+      SERVER_ACKS: '서버 자격'
