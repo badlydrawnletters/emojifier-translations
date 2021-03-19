@@ -16,6 +16,7 @@ es:
       HELPS_GROW: 'Voting on different bot lists really helps this bot grow and gain more servers!'
       WHERE_VOTE: 'Where to Vote'
       THANKS_VOTE: 'Thanks in advance for any votes you may give us!'
+      VOTE_SITES: 'You can vote on all of the following sites:'
     USERINFO:
       USER_ID: '**User ID**'
       CREATED_AT: '**Created at**'
