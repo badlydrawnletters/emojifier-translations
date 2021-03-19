@@ -30,7 +30,7 @@ en:
       GLOBAL_ACKS: 'Global Acknowledgments'
       SERVER_ACKS: 'Server Acknowledgements'
     LOCALE: 
-      SET: 'Your locale has been set. In the event we don't have a translation for that language it will fallback to English.'
+      SET: 'Your locale has been set. In the event we do not have a translation for that language it will fallback to English.'
       EASTER_EGG: 'You’ve found an easter egg. Your locale has been set to something special. What could it be?'
       TIMED_OUT: 'Request timed out, try again.'
     CONVERT:
