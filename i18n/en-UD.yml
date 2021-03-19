@@ -1,0 +1,30 @@
+en:
+  COMMAND:
+    CHANGELOG:
+      NEW_FEATURES: 'sǝɹnʇɐǝℲ ʍǝN'
+      IMPROVEMENTS: 'sʇuǝɯǝʌoɹdɯI'
+      BUG_FIXES: 'sǝxᴉℲ ƃnq'
+      BOT_ANNOUNCEMENTS: 'sʇuǝɯǝɔunouuɐ ʇoq'
+      TRELLO_LINK: '🔗 ʞuᴉ˥ pɹɐƆ ollǝɹ┴'
+      UPDATE_RELEASE: 'uo pǝsɐǝlǝɹ ǝʇɐpd∩ '
+    INVITE:
+      INVITE_TITLE: 'ǝʇᴉʌuI ɹǝᴉɟᴉɾoɯƎ'
+    SUPPORT:
+      HAPPY_TO_HELP: '¡noʎ ʇsᴉssɐ oʇ ʎddɐɥ ǝq llᴉʍ ɯɐǝʇ ʇɹoddns ɹnO https://discord.gg/qGvzMas :ʇɐ ɹǝʌɹǝs ʇɹoddns ɹno uᴉoɾ oʇ ǝǝɹɟ lǝǝɟ ''dlǝɥ pǝǝu noʎ ɟI'
+    VOTE:
+      VOTE_INFO: 'uoᴉʇɐɯɹoɟuI ƃuᴉʇoΛ'
+      HELPS_GROW: '¡sɹǝʌɹǝs ǝɹoɯ uᴉɐƃ puɐ ʍoɹƃ ʇoq sᴉɥʇ sdlǝɥ ʎllɐǝɹ sʇsᴉl ʇoq ʇuǝɹǝɟɟᴉp uo ƃuᴉʇoΛ'
+      WHERE_VOTE: 'ǝʇoΛ oʇ ǝɹǝɥM'
+      THANKS_VOTE: '¡sn ǝʌᴉƃ ʎɐɯ noʎ sǝʇoʌ ʎuɐ ɹoɟ ǝɔuɐʌpɐ uᴉ sʞuɐɥ┴'
+    USERINFO:
+      USER_ID: '**pI ɹǝs∩**'
+      CREATED_AT: '**ʇɐ pǝʇɐǝɹƆ**'
+      NICKNAME: '**ǝɯɐuʞɔᴉN**'
+      JOINED_AT: '**ʇɐ pǝuᴉoſ**'
+      ROLES: '**sǝloɹ**'
+    VERIFY:
+      ACK: 'sʇuǝɯƃpǝlʍouʞɔ'
+      SERVER_MOD: ':hammer: ɹoʇɐɹǝpoW ɹǝʌɹǝS'
+      SERVER_ADMIN: ':tools: uᴉɯp∀ ɹǝʌɹǝS'
+      GLOBAL_ACKS: 'sʇuǝɯƃpǝlʍouʞɔ∀ lɐqolפ'
+      SERVER_ACKS: 'sʇuǝɯǝƃpǝlʍouʞɔ∀ ɹǝʌɹǝS'
