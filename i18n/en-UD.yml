@@ -30,7 +30,7 @@ en:
       GLOBAL_ACKS: 'פloqɐl ∀ɔʞuoʍlǝpƃɯǝuʇs'
       SERVER_ACKS: 'Sǝɹʌǝɹ ∀ɔʞuoʍlǝpƃǝɯǝuʇs'
     LOCALE:
-      SET: "⅄onɹ loɔɐlǝ ɥɐs qǝǝu sǝʇ˙ Iu ʇɥǝ ǝʌǝuʇ ʍǝ pou,ʇ ɥɐʌǝ ɐ ʇɹɐuslɐʇᴉou ɟoɹ ʇɥɐʇ lɐuƃnɐƃǝ ᴉʇ ʍᴉll ɟɐllqɐɔʞ ʇo Ǝuƃlᴉsɥ˙\n⅄onɹ loɔɐlǝ ɥɐs qǝǝu sǝʇ˙ Iu ʇɥǝ ǝʌǝuʇ ʍǝ pou,ʇ ɥɐʌǝ ɐ ʇɹɐuslɐʇᴉou ɟoɹ ʇɥɐʇ lɐuƃnɐƃǝ ᴉʇ ʍᴉll ɟɐllqɐɔʞ ʇo Ǝuƃlᴉsɥ˙"
+      SET: 'Your locale has been set. In the event we do not have a translation for that language it will fallback to English.'
       EASTER_EGG: '⅄on’ʌǝ ɟonup ɐu ǝɐsʇǝɹ ǝƃƃ˙ ⅄onɹ loɔɐlǝ ɥɐs qǝǝu sǝʇ ʇo soɯǝʇɥᴉuƃ sdǝɔᴉɐl˙ Mɥɐʇ ɔonlp ᴉʇ qǝ¿'
       TIMED_OUT: 'ɹǝbnǝsʇ ʇᴉɯǝp onʇ'' ʇɹʎ ɐƃɐᴉu˙'
     CONVERT:
