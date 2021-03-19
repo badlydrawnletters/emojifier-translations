@@ -16,6 +16,7 @@ ko:
       HELPS_GROW: '여러 봇 목록에서 투표해주시면 이 봇이 성장하고 더 많은 서버를 얻는 데 큰 도움이 됩니다!'
       WHERE_VOTE: '투표하는 곳'
       THANKS_VOTE: '투표해 주셔서 미리 감사드립니다!'
+      VOTE_SITES: 'You can vote on all of the following sites:'
     USERINFO:
       USER_ID: '**사용자 ID**'
       CREATED_AT: '**계정 생성일**'
