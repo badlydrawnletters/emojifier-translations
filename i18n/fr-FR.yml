@@ -1,12 +1,12 @@
 fr:
   COMMAND:
     CHANGELOG:
-      NEW_FEATURES: 'New Features'
-      IMPROVEMENTS: 'Improvements'
-      BUG_FIXES: 'Bug Fixes'
-      BOT_ANNOUNCEMENTS: 'Bot announcements'
-      TRELLO_LINK: '🔗 Trello Card Link'
-      UPDATE_RELEASE: 'Update released on '
+      NEW_FEATURES: 'Nouveautés'
+      IMPROVEMENTS: 'Améliorations'
+      BUG_FIXES: 'Corrections de bugs'
+      BOT_ANNOUNCEMENTS: 'Annonces'
+      TRELLO_LINK: '🔗 Lien Trello'
+      UPDATE_RELEASE: 'Date de sortie '
     INVITE:
       INVITE_TITLE: 'Emojifier Invite'
     SUPPORT:
@@ -14,7 +14,7 @@ fr:
     VOTE:
       VOTE_INFO: 'Voting Information'
       HELPS_GROW: 'Voting on different bot lists really helps this bot grow and gain more servers!'
-      WHERE_VOTE: 'Where to Vote'
+      WHERE_VOTE: 'Où Voter'
       THANKS_VOTE: 'Thanks in advance for any votes you may give us!'
       VOTE_SITES: 'You can vote on all of the following sites:'
     USERINFO:
@@ -25,8 +25,8 @@ fr:
       ROLES: '**Roles**'
     VERIFY:
       ACK: 'Acknowledgments'
-      SERVER_MOD: ':hammer: Server Moderator'
-      SERVER_ADMIN: ':tools: Server Admin'
+      SERVER_MOD: ':hammer: Modérateur'
+      SERVER_ADMIN: ':tools: Administrateur'
       GLOBAL_ACKS: 'Global Acknowledgments'
       SERVER_ACKS: 'Server Acknowledgements'
     LOCALE:
