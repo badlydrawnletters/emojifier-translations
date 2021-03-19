@@ -10,19 +10,19 @@ fr:
     INVITE:
       INVITE_TITLE: 'Emojifier Invite'
     SUPPORT:
-      HAPPY_TO_HELP: 'Si vous avez besoin d''aide, n''hésitez pas à rejoindre notre serveur de support via ce lien https://discord.gg/qGvzMas Notre équipe d''assistance sera heureuse de vous aider!'
+      HAPPY_TO_HELP: 'If you need help, feel free to join our support server at: https://discord.gg/qGvzMas Our support team will be happy to assist you!'
     VOTE:
       VOTE_INFO: 'Voting Information'
       HELPS_GROW: 'Voting on different bot lists really helps this bot grow and gain more servers!'
       WHERE_VOTE: 'Où Voter'
       THANKS_VOTE: 'Thanks in advance for any votes you may give us!'
-      VOTE_SITES: 'Vous pouvez voter sur via les sites suivants:'
+      VOTE_SITES: 'You can vote on all of the following sites:'
     USERINFO:
-      USER_ID: '**ID Utilisateur**'
+      USER_ID: '**User ID**'
       CREATED_AT: '**Created at**'
       NICKNAME: '**Nickname**'
       JOINED_AT: '**Joined at**'
-      ROLES: '**Rôles**'
+      ROLES: '**Roles**'
     VERIFY:
       ACK: 'Acknowledgments'
       SERVER_MOD: ':hammer: Modérateur'
@@ -30,18 +30,18 @@ fr:
       GLOBAL_ACKS: 'Global Acknowledgments'
       SERVER_ACKS: 'Server Acknowledgements'
     LOCALE:
-      SET: 'Votre langue a été définie. Si aucune traduction est disponible, l''anglais sera utilisé.'
+      SET: 'Your locale has been set. In the event we do not have a translation for that language it will fallback to English.'
       EASTER_EGG: 'You’ve found an easter egg. Your locale has been set to something special. What could it be?'
-      TIMED_OUT: 'La requête a expiré, veuillez réessayer.'
+      TIMED_OUT: 'Request timed out, try again.'
     CONVERT:
-      MAX_LIMIT: '<:x_:661396071158644736> 80 caractères maximum.'
+      MAX_LIMIT: '<:x_:661396071158644736> 80 characters max.'
     STATS:
-      BOT_STATS: 'Stats'
+      BOT_STATS: 'Bot Stats'
       DEVELOPERS: '<:botdeveloper:701976568712658954> Développeurs'
       UPTIME: '<:3dwand:697517879721197604> Uptime'
-      CLIENT_PING: '<:3dpotions:697517886100472459> Ping'
-      GUILD_COUNT: '<:servers:728410726128943235> Serveurs'
-      LINKS: '🔗 Liens'
-      VPS_SPONSOR: 'Sponsor VPS'
+      CLIENT_PING: '<:3dpotions:697517886100472459> Client Ping'
+      GUILD_COUNT: '<:servers:728410726128943235> Guild Count'
+      LINKS: '🔗 Links'
+      VPS_SPONSOR: 'VPS sponsor'
       DOCUMENTATION: 'Documentation'
-      RUNNING_VERSION: 'Version '
+      RUNNING_VERSION: 'Running on Version '
