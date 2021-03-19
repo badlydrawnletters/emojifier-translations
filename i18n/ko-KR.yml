@@ -32,3 +32,15 @@ ko:
       SET: 'Your locale has been set. In the event we don''t have a translation for that language it will fallback to English.'
       EASTER_EGG: 'You’ve found an easter egg. Your locale has been set to something special. What could it be?'
       TIMED_OUT: 'Request timed out, try again.'
+    CONVERT:
+      MAX_LIMIT: '<:x_:661396071158644736> 80 characters max.'
+    STATS:
+      BOT_STATS: 'Bot Stats'
+      DEVELOPERS: '<:botdeveloper:701976568712658954> Developers'
+      UPTIME: '<:3dwand:697517879721197604> Uptime'
+      CLIENT_PING: '<:3dpotions:697517886100472459> Client Ping'
+      GUILD_COUNT: '<:servers:728410726128943235> Guild Count'
+      LINKS: '🔗 Links'
+      VPS_SPONSOR: 'VPS sponsor'
+      DOCUMENTATION: 'Documentation'
+      RUNNING_VERSION: 'Running on Version '
