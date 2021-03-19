@@ -1,11 +1,11 @@
 owo:
   COMMAND:
     CHANGELOG:
-      NEW_FEATURES: 'New Features'
-      IMPROVEMENTS: 'Improvements'
-      BUG_FIXES: 'Bug Fixes'
-      BOT_ANNOUNCEMENTS: 'Bot announcements'
-      TRELLO_LINK: '🔗 Trello Card Link'
+      NEW_FEATURES: 'Nyew Featuwes'
+      IMPROVEMENTS: 'Impwuvments'
+      BUG_FIXES: 'Buwg Fixwes'
+      BOT_ANNOUNCEMENTS: 'Bowt annyouncewments'
+      TRELLO_LINK: '🔗 Twewwo Cawd Wink'
       UPDATE_RELEASE: 'Update released on '
     INVITE:
       INVITE_TITLE: 'Emojifier Invite'
@@ -28,4 +28,3 @@ owo:
       SERVER_ADMIN: ':tools: Server Admin'
       GLOBAL_ACKS: 'Global Acknowledgments'
       SERVER_ACKS: 'Server Acknowledgements'
-
