@@ -10,7 +10,7 @@ es:
     INVITE:
       INVITE_TITLE: 'Invitar Emojifier'
     SUPPORT:
-      HAPPY_TO_HELP: 'If you need help, feel free to join our support server at: %{support_invite} Our support team will be happy to assist you!'
+      HAPPY_TO_HELP: 'Si necesitas ayuda, siéntete libre de unirte a nuestro servidor de soporte en: %{support_invite}. Nuestro equipo de soporte estará encantado de ayudarte!'
     VOTE:
       VOTE_INFO: 'Información de votación'
       HELPS_GROW: '¡Votar en diferentes listas de bots realmente ayuda a este bot a crecer y ganar más servidores!'
