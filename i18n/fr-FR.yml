@@ -10,7 +10,7 @@ fr:
     INVITE:
       INVITE_TITLE: 'Emojifier Invite'
     SUPPORT:
-      HAPPY_TO_HELP: 'Si vous avez besoin d''aide, n''hésitez pas à rejoindre notre serveur de support via ce lien https://discord.gg/qGvzMas Notre équipe d''assistance sera heureuse de vous aider!'
+      HAPPY_TO_HELP: 'If you need help, feel free to join our support server at: %{support_invite} Our support team will be happy to assist you!'
     VOTE:
       VOTE_INFO: 'Voting Information'
       HELPS_GROW: 'Voting on different bot lists really helps this bot grow and gain more servers!'
