@@ -10,7 +10,7 @@ en:
     INVITE:
       INVITE_TITLE: 'Ǝɯoɾᴉɟᴉǝɹ Iuʌᴉʇǝ'
     SUPPORT:
-      HAPPY_TO_HELP: 'Iɟ ʎon uǝǝp ɥǝld'' ɟǝǝl ɟɹǝǝ ʇo ɾoᴉu onɹ snddoɹʇ sǝɹʌǝɹ ɐʇ: https://discord.gg/qGvzMas Onɹ snddoɹʇ ʇǝɐɯ ʍᴉll qǝ ɥɐddʎ ʇo ɐssᴉsʇ ʎon¡'
+      HAPPY_TO_HELP: 'If you need help, feel free to join our support server at: %{support_invite} Our support team will be happy to assist you!'
     VOTE:
       VOTE_INFO: 'Λoʇᴉuƃ Iuɟoɹɯɐʇᴉou'
       HELPS_GROW: 'Λoʇᴉuƃ ou pᴉɟɟǝɹǝuʇ qoʇ lᴉsʇs ɹǝɐllʎ ɥǝlds ʇɥᴉs qoʇ ƃɹoʍ ɐup ƃɐᴉu ɯoɹǝ sǝɹʌǝɹs¡'
