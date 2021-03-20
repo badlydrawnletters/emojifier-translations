@@ -52,3 +52,13 @@ en:
       NOT_FOUND: '<:x_:661396071158644736> Prefix not found.'
       TOO_LONG: '<:x_:661396071158644736> The prefix can''t be longer than 20 characters'
       NEW_PREFIX: 'Successfully set prefix to %{new_prefix}'
+    REPORT:
+      BOT_ABUSE: 'Emojifier Bot Abuse Report'
+      KEEPING_SAFE_SOUND: 'Keeping things safe & sound'
+      ABUSE_ACTIONS: 'Actions we take for bot abuse'
+      USER_SAFETY: 'User Safety'
+      WAYS_GET_IN_TOUCH: 'Different ways you can get in touch with our team'
+      GET_IN_TOUCH: 'Get in touch with us'
+      FORM_TO_REPORT: 'Form to report users'
+      REPORT_FORM: 'Reporting form'
+      THANKS_KEEP_SAFE_SOUND: 'Thanks for wanting to keep users safe while using Emojifier'
