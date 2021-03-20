@@ -1,7 +1,7 @@
 es:
   ERRORS:
-    USER_MISSING_MANAGE_SERVER: 'You need the Manage Server permission to do this!'
-    BOT_MISSING_EMBED_LINKs: '<:no:667534745672089601> An error happened, I don’t think I have permissions to send embeds'
+    USER_MISSING_MANAGE_SERVER: '¡Necesita el permiso Administrar Servidor para hacer esto!'
+    BOT_MISSING_EMBED_LINKs: '<:no:667534745672089601> Ha ocurrido un error, no creo que tenga permisos para enviar incrustaciones'
   COMMAND:
     CHANGELOG:
       NEW_FEATURES: 'Características nuevas'
@@ -49,16 +49,16 @@ es:
       DOCUMENTATION: 'Documentación'
       RUNNING_VERSION: 'Ejecutando en versión '
     SETPREFIX:
-      NOT_FOUND: '<:x_:661396071158644736> Prefix not found.'
-      TOO_LONG: '<:x_:661396071158644736> The prefix can''t be longer than 20 characters'
-      NEW_PREFIX: 'Successfully set prefix to %{new_prefix}'
+      NOT_FOUND: '<:x_:661396071158644736> Prefijo no encontrado.'
+      TOO_LONG: '<:x_:661396071158644736> El prefijo no puede tener más de 20 caracteres'
+      NEW_PREFIX: 'Prefijo establecido correctamente a %{new_prefix}'
     REPORT:
-      BOT_ABUSE: 'Emojifier Bot Abuse Report'
-      KEEPING_SAFE_SOUND: 'Keeping things safe & sound'
-      ABUSE_ACTIONS: 'Actions we take for bot abuse'
-      USER_SAFETY: 'User Safety'
-      WAYS_GET_IN_TOUCH: 'Different ways you can get in touch with our team'
-      GET_IN_TOUCH: 'Get in touch with us'
-      FORM_TO_REPORT: 'Form to report users'
-      REPORT_FORM: 'Reporting form'
-      THANKS_KEEP_SAFE_SOUND: 'Thanks for wanting to keep users safe while using Emojifier'
+      BOT_ABUSE: 'Informe de abuso de botes de emoticonos'
+      KEEPING_SAFE_SOUND: 'Mantener cosas seguras y sonoras'
+      ABUSE_ACTIONS: 'Acciones que tomamos por abuso de bot'
+      USER_SAFETY: 'Seguridad del usuario'
+      WAYS_GET_IN_TOUCH: 'Diferentes maneras de ponerse en contacto con nuestro equipo'
+      GET_IN_TOUCH: 'Ponte en contacto con nosotros'
+      FORM_TO_REPORT: 'Formulario para reportar usuarios'
+      REPORT_FORM: 'Informes (Formulario)'
+      THANKS_KEEP_SAFE_SOUND: 'Gracias por querer mantener a los usuarios seguros mientras usan Emojifier'
