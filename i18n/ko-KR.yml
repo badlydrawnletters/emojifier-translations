@@ -1,6 +1,6 @@
 ko:
   ERRORS:
-    USER_MISSING_MANAGE_SERVER: 'You need the Manage Server permission to do this!'
+    USER_MISSING_MANAGE_SERVER: '이 작업을 수행하려면 서버 관리하기 권한이 필요합니다!'
     BOT_MISSING_EMBED_LINKs: '<:no:667534745672089601> An error happened, I don’t think I have permissions to send embeds'
   COMMAND:
     CHANGELOG:
