@@ -10,7 +10,7 @@ ko:
     INVITE:
       INVITE_TITLE: 'Emojifier 초대'
     SUPPORT:
-      HAPPY_TO_HELP: '도움이 필요하시면 언제든지 저희 지원 서버에 참가하세요. 저희 지원 팀이 기꺼이 도와드리겠습니다! https://discord.gg/qGvzMas'
+      HAPPY_TO_HELP: 'If you need help, feel free to join our support server at: %{support_invite} Our support team will be happy to assist you!'
     VOTE:
       VOTE_INFO: '투표 정보'
       HELPS_GROW: '여러 봇 목록에서 투표해주시면 이 봇이 성장하고 더 많은 서버를 얻는 데 큰 도움이 됩니다!'
