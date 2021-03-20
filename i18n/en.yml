@@ -1,4 +1,7 @@
 en:
+  ERRORS:
+    USER_MISSING_MANAGE_SERVER: 'You need the Manage Server permission to do this!'
+    BOT_MISSING_EMBED_LINKs: '<:no:667534745672089601> An error happened, I don’t think I have permissions to send embeds'
   COMMAND:
     CHANGELOG:
       NEW_FEATURES: 'New Features'
@@ -45,3 +48,7 @@ en:
       VPS_SPONSOR: 'VPS sponsor'
       DOCUMENTATION: 'Documentation'
       RUNNING_VERSION: 'Running on Version '
+    SETPREFIX:
+      NOT_FOUND: '<:x_:661396071158644736> Prefix not found.'
+      TOO_LONG: '<:x_:661396071158644736> The prefix can't be longer than 20 characters'
+      NEW_PREFIX: 'Successfully set prefix to %{new_prefix}'
