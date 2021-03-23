@@ -1,6 +1,6 @@
 fr:
   ERRORS:
-    USER_MISSING_MANAGE_SERVER: 'You need the Manage Server permission to do this!'
+    USER_MISSING_MANAGE_SERVER: 'Vous avez besoin de la permission Gérer le serveur pour utiliser cette commande!'
     BOT_MISSING_EMBED_LINKs: '<:no:667534745672089601> An error happened, I don’t think I have permissions to send embeds'
   COMMAND:
     CHANGELOG:
@@ -11,19 +11,19 @@ fr:
       TRELLO_LINK: '🔗 Lien Trello'
       UPDATE_RELEASE: 'Date de sortie '
     INVITE:
-      INVITE_TITLE: 'Emojifier Invite'
+      INVITE_TITLE: 'Invitation d''Emojifier'
     SUPPORT:
       HAPPY_TO_HELP: 'Si vous avez besoin d''''aide, n''''hésitez pas à rejoindre notre serveur de support via ce lien %{support_invite} Notre équipe d''''assistance sera heureuse de vous aider!'
     VOTE:
       VOTE_INFO: 'Voting Information'
       HELPS_GROW: 'Voting on different bot lists really helps this bot grow and gain more servers!'
       WHERE_VOTE: 'Où Voter'
-      THANKS_VOTE: 'Thanks in advance for any votes you may give us!'
+      THANKS_VOTE: 'Merci d''avance pour vos votes!'
       VOTE_SITES: 'Vous pouvez voter sur via les sites suivants:'
     USERINFO:
       USER_ID: '**ID Utilisateur**'
       CREATED_AT: '**Created at**'
-      NICKNAME: '**Nickname**'
+      NICKNAME: '**Surnom**'
       JOINED_AT: '**Joined at**'
       ROLES: '**Rôles**'
     VERIFY:
@@ -49,16 +49,16 @@ fr:
       DOCUMENTATION: 'Documentation'
       RUNNING_VERSION: 'Version '
     SETPREFIX:
-      NOT_FOUND: '<:x_:661396071158644736> Prefix not found.'
-      TOO_LONG: '<:x_:661396071158644736> The prefix can''t be longer than 20 characters'
-      NEW_PREFIX: 'Successfully set prefix to %{new_prefix}'
+      NOT_FOUND: '<:x_:661396071158644736> Préfixe introuvable.'
+      TOO_LONG: '<:x_:661396071158644736> Le préfixe ne peut pas contenir plus de 20 caractères'
+      NEW_PREFIX: 'Le préfixe a été défini avec succès sur %{new_prefix}'
     REPORT:
       BOT_ABUSE: 'Emojifier Bot Abuse Report'
       KEEPING_SAFE_SOUND: 'Keeping things safe & sound'
       ABUSE_ACTIONS: 'Actions we take for bot abuse'
-      USER_SAFETY: 'User Safety'
-      WAYS_GET_IN_TOUCH: 'Different ways you can get in touch with our team'
-      GET_IN_TOUCH: 'Get in touch with us'
+      USER_SAFETY: 'Sécurité des utilisateurs'
+      WAYS_GET_IN_TOUCH: 'Différentes façons de contacter notre équipe'
+      GET_IN_TOUCH: 'Contactez-nous'
       FORM_TO_REPORT: 'Form to report users'
-      REPORT_FORM: 'Reporting form'
-      THANKS_KEEP_SAFE_SOUND: 'Thanks for wanting to keep users safe while using Emojifier'
+      REPORT_FORM: 'Formulaire de report'
+      THANKS_KEEP_SAFE_SOUND: 'Merci de nous aider à maintenir nos utilisateurs en sécurité'
