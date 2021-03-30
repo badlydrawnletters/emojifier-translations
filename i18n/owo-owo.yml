@@ -1,7 +1,7 @@
 owo:
   ERRORS:
-    USER_MISSING_MANAGE_SERVER: 'You need the Manage Server permission to do this!'
-    BOT_MISSING_EMBED_LINKs: '<:no:667534745672089601> An error happened, I don’t think I have permissions to send embeds'
+    USER_MISSING_MANAGE_SERVER: 'You nyeed the Manyage Sewvew pewmission to do this ^w^'
+    BOT_MISSING_EMBED_LINKs: '<:no:667534745672089601> An ewwow happenyed, I don’t think I have pewmissions to send embeds'
   COMMAND:
     CHANGELOG:
       NEW_FEATURES: 'Nyew Featuwes'
@@ -49,16 +49,16 @@ owo:
       DOCUMENTATION: 'Docwumentwation'
       RUNNING_VERSION: 'Wunnying on Vewsion '
     SETPREFIX:
-      NOT_FOUND: '<:x_:661396071158644736> Prefix not found.'
-      TOO_LONG: '<:x_:661396071158644736> The prefix can''t be longer than 20 characters'
-      NEW_PREFIX: 'Successfully set prefix to %{new_prefix}'
+      NOT_FOUND: '<:x_:661396071158644736> Pwefix nyot found.'
+      TOO_LONG: '<:x_:661396071158644736> The pwefix can''t be wongew than 20 chawactews'
+      NEW_PREFIX: 'Successfuwwy set pwefix to %{new_prefix}'
     REPORT:
-      BOT_ABUSE: 'Emojifier Bot Abuse Report'
-      KEEPING_SAFE_SOUND: 'Keeping things safe & sound'
-      ABUSE_ACTIONS: 'Actions we take for bot abuse'
-      USER_SAFETY: 'User Safety'
-      WAYS_GET_IN_TOUCH: 'Different ways you can get in touch with our team'
-      GET_IN_TOUCH: 'Get in touch with us'
-      FORM_TO_REPORT: 'Form to report users'
-      REPORT_FORM: 'Reporting form'
-      THANKS_KEEP_SAFE_SOUND: 'Thanks for wanting to keep users safe while using Emojifier'
+      BOT_ABUSE: 'Emojifier Bot Abuse Wepowt'
+      KEEPING_SAFE_SOUND: 'Keepwing twhings safe & sound'
+      ABUSE_ACTIONS: 'Actions we take fow bot abuse'
+      USER_SAFETY: 'Usew Safety'
+      WAYS_GET_IN_TOUCH: 'Diffewent ways you can get in touch with ouw team'
+      GET_IN_TOUCH: 'Get in twouch with us'
+      FORM_TO_REPORT: 'Fowm to wepowt usews'
+      REPORT_FORM: 'Wepowting fowm'
+      THANKS_KEEP_SAFE_SOUND: 'Thanks fow wanting to keep usews safe whiwe using Emojifiew'
