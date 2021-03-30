@@ -1,7 +1,7 @@
 en:
   ERRORS:
     USER_MISSING_MANAGE_SERVER: '⅄on uǝǝp ʇɥǝ Wɐuɐƃǝ Sǝɹʌǝɹ dǝɹɯᴉssᴉou ʇo po ʇɥᴉs¡'
-    BOT_MISSING_EMBED_LINKs: '<:no:667534745672089601> spǝqɯǝ puǝs oʇ suoıssıɯɹǝd ǝʌɐɥ I ʞuıɥʇ ʇ,uop I ''pǝuǝddɐɥ ɹoɹɹǝ u∀'
+    BOT_MISSING_EMBED_LINKs: '<:no:667534745672089601> ∀u ǝɹɹoɹ ɥɐddǝuǝp'' I pou’ʇ ʇɥᴉuʞ I ɥɐʌǝ dǝɹɯᴉssᴉous ʇo sǝup ǝɯqǝps'
   COMMAND:
     CHANGELOG:
       NEW_FEATURES: 'Nǝʍ Ⅎǝɐʇnɹǝs'
@@ -50,15 +50,15 @@ en:
       RUNNING_VERSION: 'ɹnuuᴉuƃ ou Λǝɹsᴉou '
     SETPREFIX:
       NOT_FOUND: '<:x_:661396071158644736> Ԁɹǝɟᴉx uoʇ ɟonup˙'
-      TOO_LONG: '<:x_:661396071158644736> sɹǝʇɔɐɹɐɥɔ 0ㄹ uɐɥʇ ɹǝɓuol ǝq ʇ,uɐɔ xıɟǝɹd ǝɥ⊥'
-      NEW_PREFIX: '%{new_prefix} oʇ xıɟǝɹd ʇǝs ʎllnɟssǝɔɔnS'
+      TOO_LONG: '<:x_:661396071158644736> ┴ɥǝ dɹǝɟᴉx ɔɐu,ʇ qǝ louƃǝɹ ʇɥɐu ᄅ0 ɔɥɐɹɐɔʇǝɹs'
+      NEW_PREFIX: 'Snɔɔǝssɟnllʎ sǝʇ dɹǝɟᴉx ʇo %{new_prefix}'
     REPORT:
       BOT_ABUSE: 'Ǝɯoɾᴉɟᴉǝɹ qoʇ ∀qnsǝ ɹǝdoɹʇ'
       KEEPING_SAFE_SOUND: 'ʞǝǝdᴉuƃ ʇɥᴉuƃs sɐɟǝ ⅋ sonup'
       ABUSE_ACTIONS: '∀ɔʇᴉous ʍǝ ʇɐʞǝ ɟoɹ qoʇ ɐqnsǝ'
-      USER_SAFETY: 'ʎʇǝɟɐS ɹǝs∩'
+      USER_SAFETY: '∩sǝɹ Sɐɟǝʇʎ'
       WAYS_GET_IN_TOUCH: 'pᴉɟɟǝɹǝuʇ ʍɐʎs ʎon ɔɐu ƃǝʇ ᴉu ʇonɔɥ ʍᴉʇɥ onɹ ʇǝɐɯ'
       GET_IN_TOUCH: 'פǝʇ ᴉu ʇonɔɥ ʍᴉʇɥ ns'
       FORM_TO_REPORT: 'Ⅎoɹɯ ʇo ɹǝdoɹʇ nsǝɹs'
       REPORT_FORM: 'ɹǝdoɹʇᴉuƃ ɟoɹɯ'
-      THANKS_KEEP_SAFE_SOUND: 'ɹǝıɟıɾoɯƎ ɓuısn ǝlıɥʍ ǝɟɐs sɹǝsn dǝǝʞ oʇ ɓuıʇuɐʍ ɹoɟ sʞuɐɥ⊥'
+      THANKS_KEEP_SAFE_SOUND: '┴ɥɐuʞs ɟoɹ ʍɐuʇᴉuƃ ʇo ʞǝǝd nsǝɹs sɐɟǝ ʍɥᴉlǝ nsᴉuƃ Ǝɯoɾᴉɟᴉǝɹ'
