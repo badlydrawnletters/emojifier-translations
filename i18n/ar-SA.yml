@@ -1,7 +1,7 @@
 ar:
   ERRORS:
-    USER_MISSING_MANAGE_SERVER: 'You need the Manage Server permission to do this!'
-    BOT_MISSING_EMBED_LINKs: '<:no:667534745672089601> An error happened, I don’t think I have permissions to send embeds'
+    USER_MISSING_MANAGE_SERVER: 'أنت بحاجة إلى إذن "Manage Server" للقيام بهذا!'
+    BOT_MISSING_EMBED_LINKs: '<:no:667534745672089601> حدث خطأ، لا أعتقد أن لدي التصريحات لإرسال مرافق'
   COMMAND:
     CHANGELOG:
       NEW_FEATURES: 'ميزات جديدة'
@@ -13,13 +13,13 @@ ar:
     INVITE:
       INVITE_TITLE: 'دعوة Emojifier'
     SUPPORT:
-      HAPPY_TO_HELP: 'If you need help, feel free to join our support server at: %{support_invite} Our support team will be happy to assist you!'
+      HAPPY_TO_HELP: 'إذا كنت بحاجة إلى مساعدة، لا تتردد في الانضمام إلى السيرفر المساعد الخاص بنا من خلال: %{support_invite} فريق الدعم الخاص بنا سيكون سعيداً لمساعدتك!'
     VOTE:
       VOTE_INFO: 'معلومات التصويت'
       HELPS_GROW: 'التصويت على قوائم بوت المختلفة يساعد هذا البوت حقاً على النمو واكتساب المزيد من السيرفرات!'
       WHERE_VOTE: 'أين يتم التصويت'
       THANKS_VOTE: 'شكرا مقدما على أي تصويتات قد تعطينا!'
-      VOTE_SITES: 'You can vote on all of the following sites:'
+      VOTE_SITES: 'يمكنك التصويت على جميع المواقع التالية:'
     USERINFO:
       USER_ID: '**معرف المستخدم**'
       CREATED_AT: '**تاريخ الانشاء**'
@@ -33,32 +33,32 @@ ar:
       GLOBAL_ACKS: 'Global Acknowledgments'
       SERVER_ACKS: 'Server Acknowledgements'
     LOCALE:
-      SET: 'Your locale has been set. In the event we do not have a translation for that language it will fallback to English.'
-      EASTER_EGG: 'You’ve found an easter egg. Your locale has been set to something special. What could it be?'
-      TIMED_OUT: 'Request timed out, try again.'
+      SET: 'تم تعيين اللغة الخاصة بك. في حالة عدم وجود ترجمة لتلك اللغة، سيتم الرجوع إلى اللغة الإنجليزية.'
+      EASTER_EGG: 'لقد عثرت على شي سري. تم تعيين لغتك إلى شيء مميز. ماذا يمكن أن تكون؟'
+      TIMED_OUT: 'انتهت مهلة الطلب، يرجى المحاولة مرة أخرى.'
     CONVERT:
-      MAX_LIMIT: '<:x_:661396071158644736> 80 characters max.'
+      MAX_LIMIT: '<:x_:661396071158644736> 80 حرف كحد أقصى.'
     STATS:
-      BOT_STATS: 'Bot Stats'
-      DEVELOPERS: '<:botdeveloper:701976568712658954> Developers'
+      BOT_STATS: 'احصائيات البوت'
+      DEVELOPERS: 'المطورين <:botdeveloper:706568712658954>'
       UPTIME: '<:3dwand:697517879721197604> Uptime'
       CLIENT_PING: '<:3dpotions:697517886100472459> Client Ping'
-      GUILD_COUNT: '<:servers:728410726128943235> Guild Count'
-      LINKS: '🔗 Links'
-      VPS_SPONSOR: 'VPS sponsor'
-      DOCUMENTATION: 'Documentation'
-      RUNNING_VERSION: 'Running on Version '
+      GUILD_COUNT: '<:servers:728410726128943235> عدد السيرفرات'
+      LINKS: '🔗 الروابط'
+      VPS_SPONSOR: 'راعي الـ VPS'
+      DOCUMENTATION: 'إرشادات الإستخدام'
+      RUNNING_VERSION: 'يعمل على الإصدار '
     SETPREFIX:
-      NOT_FOUND: '<:x_:661396071158644736> Prefix not found.'
-      TOO_LONG: '<:x_:661396071158644736> The prefix can''t be longer than 20 characters'
-      NEW_PREFIX: 'Successfully set prefix to %{new_prefix}'
+      NOT_FOUND: '<:x_:661396071158644736> لم يتم العثور على البادئة.'
+      TOO_LONG: '<:x_:661396071158644736> البادئة لا يمكن أن تكون أطول من 20 حرفاً'
+      NEW_PREFIX: 'تم تعيين البادئة بنجاح إلى %{new_prefix}'
     REPORT:
-      BOT_ABUSE: 'Emojifier Bot Abuse Report'
-      KEEPING_SAFE_SOUND: 'Keeping things safe & sound'
-      ABUSE_ACTIONS: 'Actions we take for bot abuse'
-      USER_SAFETY: 'User Safety'
-      WAYS_GET_IN_TOUCH: 'Different ways you can get in touch with our team'
-      GET_IN_TOUCH: 'Get in touch with us'
-      FORM_TO_REPORT: 'Form to report users'
-      REPORT_FORM: 'Reporting form'
-      THANKS_KEEP_SAFE_SOUND: 'Thanks for wanting to keep users safe while using Emojifier'
+      BOT_ABUSE: 'تقرير عن إساءة إستخدام Emojifier'
+      KEEPING_SAFE_SOUND: 'الحفاظ على السلامة'
+      ABUSE_ACTIONS: 'الإجراءات التي نتخذها لإساءة إستخدام البوت'
+      USER_SAFETY: 'سلامة المستخدم'
+      WAYS_GET_IN_TOUCH: 'طرق أخرى لالتواصل مع فريقنا'
+      GET_IN_TOUCH: 'تواصل معنا'
+      FORM_TO_REPORT: 'استمارة للإبلاغ عن المستخدمين'
+      REPORT_FORM: 'استمارة الإبلاغ'
+      THANKS_KEEP_SAFE_SOUND: 'شكرا لرغبته في الحفاظ على سلامة المستخدمين أثناء استخدام Emojifier'
