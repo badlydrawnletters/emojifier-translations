@@ -7,29 +7,29 @@ ar:
       NEW_FEATURES: 'ميزات جديدة'
       IMPROVEMENTS: 'تحسينات'
       BUG_FIXES: 'العيوب المُصلحة'
-      BOT_ANNOUNCEMENTS: 'Bot announcements'
-      TRELLO_LINK: '🔗 Trello Card Link'
-      UPDATE_RELEASE: 'Update released on '
+      BOT_ANNOUNCEMENTS: 'تقرير البوت'
+      TRELLO_LINK: '🔗 رابط بطاقة Trello'
+      UPDATE_RELEASE: 'تم إصدار التحديث في '
     INVITE:
-      INVITE_TITLE: 'Emojifier Invite'
+      INVITE_TITLE: 'دعوة Emojifier'
     SUPPORT:
       HAPPY_TO_HELP: 'If you need help, feel free to join our support server at: %{support_invite} Our support team will be happy to assist you!'
     VOTE:
-      VOTE_INFO: 'Voting Information'
-      HELPS_GROW: 'Voting on different bot lists really helps this bot grow and gain more servers!'
-      WHERE_VOTE: 'Where to Vote'
-      THANKS_VOTE: 'Thanks in advance for any votes you may give us!'
+      VOTE_INFO: 'معلومات التصويت'
+      HELPS_GROW: 'التصويت على قوائم بوت المختلفة يساعد هذا البوت حقاً على النمو واكتساب المزيد من السيرفرات!'
+      WHERE_VOTE: 'أين يتم التصويت'
+      THANKS_VOTE: 'شكرا مقدما على أي تصويتات قد تعطينا!'
       VOTE_SITES: 'You can vote on all of the following sites:'
     USERINFO:
-      USER_ID: '**User ID**'
-      CREATED_AT: '**Created at**'
-      NICKNAME: '**Nickname**'
-      JOINED_AT: '**Joined at**'
-      ROLES: '**Roles**'
+      USER_ID: '**معرف المستخدم**'
+      CREATED_AT: '**تاريخ الانشاء**'
+      NICKNAME: '**اسم مستعار**'
+      JOINED_AT: '**انضم في**'
+      ROLES: '** الرتب**'
     VERIFY:
       ACK: 'Acknowledgments'
-      SERVER_MOD: ':hammer: Server Moderator'
-      SERVER_ADMIN: ':tools: Server Admin'
+      SERVER_MOD: ':hammer: مشرف السيرفر'
+      SERVER_ADMIN: ':tools: مدير السيرفر'
       GLOBAL_ACKS: 'Global Acknowledgments'
       SERVER_ACKS: 'Server Acknowledgements'
     LOCALE:
